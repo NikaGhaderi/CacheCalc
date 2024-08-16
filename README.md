@@ -10,6 +10,6 @@ CacheCalc is a simulation of a simple arithmetic unit that utilizes a direct-map
 - Basic understanding of digital circuits and memory architecture
 
 ### Installation
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/NikaGhaderi/CacheCalc.git
